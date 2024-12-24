@@ -1,0 +1,1 @@
+plots[0].imshow(image_with_nonmax)

@@ -1,1 +1,0 @@
-real_time_face_recognition("week11/dataset")
